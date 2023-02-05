@@ -109,4 +109,4 @@ ip ospf hello-interval 30
 
 ## memo
 
-* show run大事
+* show run大事です。
