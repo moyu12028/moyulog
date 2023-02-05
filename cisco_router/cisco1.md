@@ -100,7 +100,7 @@ ip ospf hello-interval 30
     ```
     overloadはポートアドレス変換
 3. R1でACL とインターフェイス S0/1/0 の間の NAT を設定し、ポートアドレス変換を使用します。
-    ```
+    ``` 
     int g0/0/0
     ip nat inside
     int s0/1/0
